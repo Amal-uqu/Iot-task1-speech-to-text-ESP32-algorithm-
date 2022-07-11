@@ -1,0 +1,6 @@
+Amal Alyatimi
+Steps to operate ESP32 :
+1-Download arduino ide.
+2-Open the arduino and click File >> then Preferences and put a Library>> (https://dl.espressif.com/dl/package_esp32_index.json)
+3-Click on Tools, then board: “Arduino uno”, then “Board manager” and then search for ESP32 and download it.
+4-close the window of board manager and your Arduino IDE is ready to program ESP32.
